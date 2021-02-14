@@ -11,6 +11,12 @@ Needed something simple to find JSON errors
 
     See BUF_SIZE. Defined at 8192 bytes.
 
+### environments
+
+    RHEL 8 x86_64, g++ 8.3.1
+    Ubuntu 16.04 x86_64, g++ 7.5.0
+    Ubuntu 20.10 arm64, g++ 10.2.0
+
 ### usage
 
     > json_parse FILE
